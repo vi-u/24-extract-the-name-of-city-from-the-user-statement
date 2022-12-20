@@ -29,7 +29,7 @@ and run this file;
 
 the outcome be like:
 
-    ┌──(my_weather)─(vit㉿acer)-[~]
+    ┌──(my_env_weather)─(user㉿acer)-[~]
     └─$ python w_3_city_good.py
     clear sky
     Lima
